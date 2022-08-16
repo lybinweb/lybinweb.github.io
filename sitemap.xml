@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://lybinweb.github.io/photo/wallpaper/index.html</loc>
+    <loc>https://lybinweb.github.io/post/24caea6b.html</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://lybinweb.github.io/posts/f689a288/index.html</loc>
+    <loc>https://lybinweb.github.io/post/5645c7b1.html</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://lybinweb.github.io/posts/6be34445/index.html</loc>
+    <loc>https://lybinweb.github.io/post/ecc4b994.html</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -38,7 +38,16 @@
   </url>
   
   <url>
-    <loc>https://lybinweb.github.io/about/index.html</loc>
+    <loc>https://lybinweb.github.io/post/718b0317.html</loc>
+    
+    <lastmod>2022-08-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://lybinweb.github.io/now.json</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -64,60 +73,6 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://lybinweb.github.io/contact/index.html</loc>
-    
-    <lastmod>2022-08-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://lybinweb.github.io/friends/index.html</loc>
-    
-    <lastmod>2022-08-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://lybinweb.github.io/music/index.html</loc>
-    
-    <lastmod>2022-08-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://lybinweb.github.io/photo/index.html</loc>
-    
-    <lastmod>2022-08-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://lybinweb.github.io/photo/memory/index.html</loc>
-    
-    <lastmod>2022-08-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://lybinweb.github.io/photo/post/index.html</loc>
-    
-    <lastmod>2022-08-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>https://lybinweb.github.io/</loc>
@@ -128,7 +83,42 @@
 
   
   <url>
-    <loc>https://lybinweb.github.io/tags/init/</loc>
+    <loc>https://lybinweb.github.io/tags/Hexo%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</loc>
+    <lastmod>2022-08-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lybinweb.github.io/tags/MVC/</loc>
+    <lastmod>2022-08-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lybinweb.github.io/tags/%E8%AE%A1%E7%AE%97%E5%99%A8%E6%A1%88%E4%BE%8B/</loc>
+    <lastmod>2022-08-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lybinweb.github.io/tags/JavaScript/</loc>
+    <lastmod>2022-08-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lybinweb.github.io/tags/%E9%87%8D%E5%86%99/</loc>
+    <lastmod>2022-08-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lybinweb.github.io/tags/rewrite/</loc>
     <lastmod>2022-08-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -137,7 +127,21 @@
 
   
   <url>
-    <loc>https://lybinweb.github.io/categories/%E6%97%A0%E7%B1%BB%E5%8F%AF%E5%88%86/</loc>
+    <loc>https://lybinweb.github.io/categories/Hexo/</loc>
+    <lastmod>2022-08-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lybinweb.github.io/categories/Vue/</loc>
+    <lastmod>2022-08-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lybinweb.github.io/categories/JavaScript/</loc>
     <lastmod>2022-08-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
