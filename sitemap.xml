@@ -2,7 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://lybinweb.github.io/tags/index.html</loc>
+    
+    <lastmod>2022-08-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://lybinweb.github.io/photo/wallpaper/index.html</loc>
+    
+    <lastmod>2022-08-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://lybinweb.github.io/posts/f689a288/index.html</loc>
+    
+    <lastmod>2022-08-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://lybinweb.github.io/posts/6be34445/index.html</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -74,15 +101,6 @@
   </url>
   
   <url>
-    <loc>https://lybinweb.github.io/tags/index.html</loc>
-    
-    <lastmod>2022-08-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://lybinweb.github.io/photo/memory/index.html</loc>
     
     <lastmod>2022-08-16</lastmod>
@@ -93,15 +111,6 @@
   
   <url>
     <loc>https://lybinweb.github.io/photo/post/index.html</loc>
-    
-    <lastmod>2022-08-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://lybinweb.github.io/photo/wallpaper/index.html</loc>
     
     <lastmod>2022-08-16</lastmod>
     

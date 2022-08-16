@@ -6,7 +6,7 @@
   <link href="https://lybinweb.github.io/atom.xml" rel="self"/>
   
   <link href="https://lybinweb.github.io/"/>
-  <updated>2022-08-16T05:14:56.098Z</updated>
+  <updated>2022-08-16T05:18:47.054Z</updated>
   <id>https://lybinweb.github.io/</id>
   
   <author>
@@ -17,11 +17,32 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>new</title>
+    <link href="https://lybinweb.github.io/posts/6be34445/index.html"/>
+    <id>https://lybinweb.github.io/posts/6be34445/index.html</id>
+    <published>2022-08-16T05:01:00.000Z</published>
+    <updated>2022-08-16T05:18:47.054Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="新建文章"><a class="markdownIt-Anchor" href="#新建文章"></a> 新建文章</h2>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;新建文章&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#新建文章&quot;&gt;&lt;/a&gt; 新建文章&lt;/h2&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hello-World</title>
     <link href="https://lybinweb.github.io/posts/f689a288/index.html"/>
     <id>https://lybinweb.github.io/posts/f689a288/index.html</id>
     <published>2019-10-31T14:40:00.000Z</published>
-    <updated>2022-08-16T05:14:56.098Z</updated>
+    <updated>2022-08-16T05:18:47.054Z</updated>
     
     <content type="html"><![CDATA[<h2 id="当前配置详情"><a class="markdownIt-Anchor" href="#当前配置详情"></a> 当前配置详情</h2><ul><li>HEXO：6.2.0</li><li>Butterfly： 4.4.0-b1</li><li>butterfly 主题的 Hexo 博客</li><li>持续集成部署（基于 Actions+Github）</li><li>一些常用页面（关于、友联等）</li></ul><p>主题版适用人群</p><ul><li>迅速得到一个 Hexo 博客成品</li><li>喜欢此主题的人群</li></ul><p>其他关于 butterfly 主题特性请参考<a href="https://butterfly.js.org/">官方文档</a>。</p>]]></content>
     
