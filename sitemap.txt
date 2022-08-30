@@ -1,4 +1,5 @@
 https://lybinweb.github.io/posts/24caea6b/index.html
+https://lybinweb.github.io/posts/4f9a43e7/index.html
 https://lybinweb.github.io/posts/5645c7b1/index.html
 https://lybinweb.github.io/posts/ecc4b994/index.html
 https://lybinweb.github.io/posts/718b0317/index.html
@@ -6,11 +7,12 @@ https://lybinweb.github.io/posts/830b4898/index.html
 https://lybinweb.github.io/tags/index.html
 https://lybinweb.github.io/
 https://lybinweb.github.io/tags/Hexo%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/
+https://lybinweb.github.io/tags/JavaScript/
+https://lybinweb.github.io/tags/%E6%95%B0%E7%BB%84%E6%96%B9%E6%B3%95/
 https://lybinweb.github.io/tags/MVC/
 https://lybinweb.github.io/tags/%E8%AE%A1%E7%AE%97%E5%99%A8%E6%A1%88%E4%BE%8B/
-https://lybinweb.github.io/tags/JavaScript/
 https://lybinweb.github.io/tags/%E9%87%8D%E5%86%99/
 https://lybinweb.github.io/tags/rewrite/
 https://lybinweb.github.io/categories/Hexo/
-https://lybinweb.github.io/categories/Vue/
 https://lybinweb.github.io/categories/JavaScript/
+https://lybinweb.github.io/categories/Vue/
