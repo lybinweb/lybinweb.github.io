@@ -2,60 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://lybinweb.github.io/posts/24caea6b/index.html</loc>
-    
-    <lastmod>2022-08-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://lybinweb.github.io/posts/4f9a43e7/index.html</loc>
-    
-    <lastmod>2022-08-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://lybinweb.github.io/posts/5645c7b1/index.html</loc>
-    
-    <lastmod>2022-08-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://lybinweb.github.io/posts/ecc4b994/index.html</loc>
-    
-    <lastmod>2022-08-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://lybinweb.github.io/posts/718b0317/index.html</loc>
-    
-    <lastmod>2022-08-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://lybinweb.github.io/posts/830b4898/index.html</loc>
-    
-    <lastmod>2022-08-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://lybinweb.github.io/tags/index.html</loc>
     
     <lastmod>2022-08-30</lastmod>
@@ -73,76 +19,6 @@
   </url>
 
   
-  <url>
-    <loc>https://lybinweb.github.io/tags/Hexo%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</loc>
-    <lastmod>2022-08-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://lybinweb.github.io/tags/JavaScript/</loc>
-    <lastmod>2022-08-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://lybinweb.github.io/tags/%E6%95%B0%E7%BB%84%E6%96%B9%E6%B3%95/</loc>
-    <lastmod>2022-08-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://lybinweb.github.io/tags/MVC/</loc>
-    <lastmod>2022-08-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://lybinweb.github.io/tags/%E8%AE%A1%E7%AE%97%E5%99%A8%E6%A1%88%E4%BE%8B/</loc>
-    <lastmod>2022-08-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://lybinweb.github.io/tags/%E9%87%8D%E5%86%99/</loc>
-    <lastmod>2022-08-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://lybinweb.github.io/tags/rewrite/</loc>
-    <lastmod>2022-08-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
-  
-  <url>
-    <loc>https://lybinweb.github.io/categories/Hexo/</loc>
-    <lastmod>2022-08-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://lybinweb.github.io/categories/JavaScript/</loc>
-    <lastmod>2022-08-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://lybinweb.github.io/categories/Vue/</loc>
-    <lastmod>2022-08-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
   
 </urlset>
