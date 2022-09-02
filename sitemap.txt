@@ -5,8 +5,8 @@ https://lybinweb.github.io/posts/ecc4b994/index.html
 https://lybinweb.github.io/posts/718b0317/index.html
 https://lybinweb.github.io/posts/830b4898/index.html
 https://lybinweb.github.io/about/index.html
-https://lybinweb.github.io/archives/index.html
 https://lybinweb.github.io/categories/index.html
+https://lybinweb.github.io/archives/index.html
 https://lybinweb.github.io/music/index.html
 https://lybinweb.github.io/tags/index.html
 https://lybinweb.github.io/
