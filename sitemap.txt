@@ -1,10 +1,14 @@
-https://lybinweb.github.io/tags/index.html
 https://lybinweb.github.io/posts/24caea6b/index.html
 https://lybinweb.github.io/posts/357dc481/index.html
 https://lybinweb.github.io/posts/5645c7b1/index.html
 https://lybinweb.github.io/posts/ecc4b994/index.html
 https://lybinweb.github.io/posts/718b0317/index.html
 https://lybinweb.github.io/posts/830b4898/index.html
+https://lybinweb.github.io/about/index.html
+https://lybinweb.github.io/archives/index.html
+https://lybinweb.github.io/categories/index.html
+https://lybinweb.github.io/music/index.html
+https://lybinweb.github.io/tags/index.html
 https://lybinweb.github.io/
 https://lybinweb.github.io/tags/Hexo%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/
 https://lybinweb.github.io/tags/JavaScript/
