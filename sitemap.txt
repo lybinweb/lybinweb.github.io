@@ -1,3 +1,5 @@
+https://lybinweb.github.io/posts/ae3d3acf/index.html
+https://lybinweb.github.io/posts/8e06be2b/index.html
 https://lybinweb.github.io/posts/7b8bf196/index.html
 https://lybinweb.github.io/posts/718b0317/index.html
 https://lybinweb.github.io/posts/357dc481/index.html
@@ -13,6 +15,10 @@ https://lybinweb.github.io/tags/index.html
 https://lybinweb.github.io/
 https://lybinweb.github.io/tags/Hexo%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/
 https://lybinweb.github.io/tags/JavaScript/
+https://lybinweb.github.io/tags/Object%E6%96%B9%E6%B3%95/
+https://lybinweb.github.io/tags/Object-defineProperty/
+https://lybinweb.github.io/tags/%E6%95%B0%E6%8D%AE%E5%8A%AB%E6%8C%81/
+https://lybinweb.github.io/tags/Promise/
 https://lybinweb.github.io/tags/%E6%95%B0%E7%BB%84%E6%96%B9%E6%B3%95/
 https://lybinweb.github.io/tags/MVC/
 https://lybinweb.github.io/tags/%E8%AE%A1%E7%AE%97%E5%99%A8%E6%A1%88%E4%BE%8B/
