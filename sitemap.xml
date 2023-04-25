@@ -20,6 +20,15 @@
   </url>
   
   <url>
+    <loc>https://lybinweb.github.io/posts/b0839f4a/index.html</loc>
+    
+    <lastmod>2023-04-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://lybinweb.github.io/about/index.html</loc>
     
     <lastmod>2023-04-25</lastmod>
@@ -297,6 +306,13 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://lybinweb.github.io/tags/%E3%80%90%E6%96%B0%E3%80%91%E9%A2%A0%E8%A6%86%E8%AE%A4%E7%9F%A5%E7%9A%84JavaScript/</loc>
+    <lastmod>2023-04-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
@@ -322,6 +338,13 @@
   
   <url>
     <loc>https://lybinweb.github.io/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</loc>
+    <lastmod>2023-04-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lybinweb.github.io/categories/JavaScript-%E3%80%90%E6%96%B0%E3%80%91%E9%A2%A0%E8%A6%86%E8%AE%A4%E7%9F%A5%E7%9A%84JavaScript/</loc>
     <lastmod>2023-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
