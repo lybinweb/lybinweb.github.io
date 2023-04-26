@@ -1,5 +1,7 @@
 https://lybinweb.github.io/posts/ae3d3acf/index.html
 https://lybinweb.github.io/posts/8e06be2b/index.html
+https://lybinweb.github.io/posts/8bd143d2/index.html
+https://lybinweb.github.io/posts/524d20fb/index.html
 https://lybinweb.github.io/posts/b0839f4a/index.html
 https://lybinweb.github.io/about/index.html
 https://lybinweb.github.io/posts/39430f0d/index.html
@@ -15,8 +17,8 @@ https://lybinweb.github.io/posts/357dc481/index.html
 https://lybinweb.github.io/posts/5645c7b1/index.html
 https://lybinweb.github.io/posts/ecc4b994/index.html
 https://lybinweb.github.io/posts/830b4898/index.html
-https://lybinweb.github.io/archives/index.html
 https://lybinweb.github.io/categories/index.html
+https://lybinweb.github.io/archives/index.html
 https://lybinweb.github.io/music/index.html
 https://lybinweb.github.io/tags/index.html
 https://lybinweb.github.io/posts/24caea6b/index.html
