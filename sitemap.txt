@@ -1,4 +1,5 @@
 https://lybinweb.github.io/posts/ae3d3acf/index.html
+https://lybinweb.github.io/posts/f4d49811/index.html
 https://lybinweb.github.io/posts/8e06be2b/index.html
 https://lybinweb.github.io/posts/9cafadb8/index.html
 https://lybinweb.github.io/posts/678f75b7/index.html
@@ -35,8 +36,9 @@ https://lybinweb.github.io/tags/JavaScript/
 https://lybinweb.github.io/tags/Object%E6%96%B9%E6%B3%95/
 https://lybinweb.github.io/tags/Object-defineProperty/
 https://lybinweb.github.io/tags/%E6%95%B0%E6%8D%AE%E5%8A%AB%E6%8C%81/
-https://lybinweb.github.io/tags/Promise/
+https://lybinweb.github.io/tags/%E5%9B%BE%E7%89%87%E5%8E%8B%E7%BC%A9/
 https://lybinweb.github.io/tags/%E6%95%B0%E7%BB%84%E6%96%B9%E6%B3%95/
+https://lybinweb.github.io/tags/Promise/
 https://lybinweb.github.io/tags/%E6%B4%BE%E5%8F%91%E5%99%A8/
 https://lybinweb.github.io/tags/Vue/
 https://lybinweb.github.io/tags/%E9%87%8D%E5%86%99/
