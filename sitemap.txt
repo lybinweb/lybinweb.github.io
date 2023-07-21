@@ -1,6 +1,7 @@
 https://lybinweb.github.io/posts/ae3d3acf/index.html
 https://lybinweb.github.io/posts/f4d49811/index.html
 https://lybinweb.github.io/posts/8e06be2b/index.html
+https://lybinweb.github.io/posts/e22c6d05/index.html
 https://lybinweb.github.io/posts/300a8ca5/index.html
 https://lybinweb.github.io/posts/ad732e86/index.html
 https://lybinweb.github.io/posts/d984b3ac/index.html
@@ -37,8 +38,10 @@ https://lybinweb.github.io/music/index.html
 https://lybinweb.github.io/tags/index.html
 https://lybinweb.github.io/posts/24caea6b/index.html
 https://lybinweb.github.io/
-https://lybinweb.github.io/tags/Hexo%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/
 https://lybinweb.github.io/tags/JavaScript/
+https://lybinweb.github.io/tags/Canvas/
+https://lybinweb.github.io/tags/%E5%9C%BA%E6%99%AF%E5%8C%96%E5%BC%80%E5%8F%91/
+https://lybinweb.github.io/tags/Hexo%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/
 https://lybinweb.github.io/tags/Object%E6%96%B9%E6%B3%95/
 https://lybinweb.github.io/tags/Object-defineProperty/
 https://lybinweb.github.io/tags/%E6%95%B0%E6%8D%AE%E5%8A%AB%E6%8C%81/
@@ -65,8 +68,8 @@ https://lybinweb.github.io/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/
 https://lybinweb.github.io/tags/%E8%B4%A3%E4%BB%BB%E9%93%BE%E6%A8%A1%E5%BC%8F/
 https://lybinweb.github.io/tags/%E3%80%90%E6%96%B0%E3%80%91%E9%A2%A0%E8%A6%86%E8%AE%A4%E7%9F%A5%E7%9A%84JavaScript/
 https://lybinweb.github.io/tags/MongoDB/
-https://lybinweb.github.io/categories/Hexo/
 https://lybinweb.github.io/categories/JavaScript/
+https://lybinweb.github.io/categories/Hexo/
 https://lybinweb.github.io/categories/TypeScript/
 https://lybinweb.github.io/categories/Vue/
 https://lybinweb.github.io/categories/%E8%AE%BE%E8%AE%A1%E6%80%9D%E6%83%B3/
